@@ -6,18 +6,18 @@ import influxdb_client, os, time
 from influxdb_client import InfluxDBClient, Point, WritePrecision
 from influxdb_client.client.write_api import SYNCHRONOUS
 
-api_id = 24720236
-api_hash = '11081bcb0ba19ed7f18927a32a657cd9'
-bot_token = '6640331247:AAElbehjFe_9sncuatl13QM7lXVTC1KWEhM' #Bot TTW
+api_id = 11
+api_hash = '111'
+bot_token = '11:111' #Bot TTW
 
 
 
 
 
-B_TTW = 6640331247 #6389158070 #6640331247
+B_TTW = 1 #6389158070 #6640331247
 
-TTW_NOTIFY = -1001965745418
-CT_NOTIFY = -1001988443538 #WI-GROUP
+TTW_NOTIFY = -1
+CT_NOTIFY = -1 #WI-GROUP
 
 CT_NOTIFY_STOPRUN = 7
 CT_NOTIFY_VOLUMESTOP = 6
